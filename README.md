@@ -6,7 +6,9 @@ The system starts from a simple boot sequence that loads the kernel and initiali
 
 #  Important
 
-To Build on Windows system, You must use MSYS2 UCRT64 shell
+To Build on Windows system: You must use MSYS2 MSYS shell only (not MINGW or UCERT64)
+
+Linux: Works out of the Box
 
 # Requirements
 
