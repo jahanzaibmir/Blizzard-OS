@@ -4,19 +4,23 @@ The system starts from a simple boot sequence that loads the kernel and initiali
 
 ![StackOS](screenshot.png)
 
+#  Important
+
+To Build on Windows system, You must use MSYS2 UCRT64 shell
+
 # Requirements
 
 nasm 
 
 gcc
 
-binutils
+binutils / ld
 
 make
 
 virtualbox 
 
-qemu-system-x86_64 
+qemu-system-x64
 
 ## Building
 
